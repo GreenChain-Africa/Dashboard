@@ -1,0 +1,2 @@
+# frontend
+Core app frontend
